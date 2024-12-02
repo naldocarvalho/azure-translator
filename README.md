@@ -1,0 +1,1 @@
+# Programa de Tradução e Integração com Azure AI
